@@ -1,0 +1,12 @@
+Betty Boop: 
+1A-9B 17A-3B 18A-2B 18A-2B 
+[90%, 15%, 10%, 10%] = ISTJ
+Snoopy: 
+7A-3B 11A-9B 14A-6B 6A-14B 
+[30%, 45%, 30%, 70%] = ESTP
+Charlie: 
+2A-8B 9A-11B 12A-8B 8A-12B 
+[80%, 55%, 40%, 60%] = INTP
+Maya: 
+6A-4B 9A-11B 9A-11B 9A-11B 
+[40%, 55%, 55%, 55%] = ENFP
